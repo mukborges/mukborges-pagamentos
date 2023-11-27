@@ -1,5 +1,5 @@
 # API de Pagamentos
-Criação de uma api para pagamentos desenvolvida em Spring Boot com Java 17.
+Api para pagamentos desenvolvida em Spring Boot com Java 17.
 
 ## Requisitos
 
